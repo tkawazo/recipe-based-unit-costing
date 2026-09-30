@@ -1,0 +1,10 @@
+product,ingredient,grams,price_per_kg_pen,ingredient_cost_pen,matrix_cost_pen,gap_pen,flag
+Parfait (example),Greek yogurt,150,18.00,2.70,,,
+Parfait (example),Granola,40,22.00,0.88,,,
+Parfait (example),Brownie bites,50,30.00,1.50,,,
+Parfait (example),Berries,60,25.00,1.50,,,
+Parfait (example),Packaging,,,0.90,,,
+Parfait (example),TOTAL,,,7.48,5.20,2.28,CHECK: matrix missing brownie bites
+Brownie (example),Brownie,90,30.00,2.70,,,
+Brownie (example),Packaging,,,0.50,,,
+Brownie (example),TOTAL,,,3.20,3.10,0.10,OK
